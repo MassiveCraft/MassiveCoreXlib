@@ -3,7 +3,7 @@
 <!-- The plugin always has the same version as MassiveCore. -->
 <!-- All our plugins depend on MassiveCore, you did not forget to install it did you? -->
 <!-- Run the command "/massivecore version" to see the version you are running. -->
-- **Affected Plugin Name:** MassiveXlib
+- **Affected Plugin Name:** MassiveCoreXlib
 - **Affected Plugin Version:** ???
 
 ## Describe your Environment
