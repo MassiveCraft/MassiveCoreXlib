@@ -77,6 +77,11 @@
                                         <exclude>META-INF/*.SF</exclude>
                                         <exclude>META-INF/*.DSA</exclude>
                                         <exclude>META-INF/*.RSA</exclude>
+                                    </excludes>
+                                </filter>
+                                <filter>
+                                    <artifact>org.mongodb:mongo-java-driver</artifact>
+                                    <excludes>
                                         <exclude>git-hash</exclude>
                                     </excludes>
                                 </filter>
